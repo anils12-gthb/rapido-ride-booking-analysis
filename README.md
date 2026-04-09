@@ -9,7 +9,7 @@ By using tools like Excel, SQL, and Power BI, this project aims to turn raw data
 - <a href="https://github.com/anils12-gthb/rapido-ride-booking-analysis/blob/main/Data/rapido-ride-booking.csv">Rapido Ride Booking Dataset</a>
 
 ## Report
-- <a href="https://github.com/anils12-gthb/rapido-ride-booking-analysis/blob/main/Reports/Rapido%20Ride%20Booking%20Dashboard%20Report.pdf">Explore the complete end-to-end dashboard analysis, including insights and recommendations, through the link below.</a>
+- <a href="https://github.com/anils12-gthb/rapido-ride-booking-analysis/blob/main/Reports/Rapido%20Ride%20Booking%20Dashboard%20Report.pdf">Click here to explore the complete end-to-end dashboard analysis, including insights and recommendations.</a>
 
 ## Questions (Dashboard Requirements)
 - What is the total number of bookings and total revenue generated in the given time period.
